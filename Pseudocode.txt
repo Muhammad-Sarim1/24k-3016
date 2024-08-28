@@ -1,0 +1,41 @@
+PROBLEM # 1: 
+1) START
+2) INPUT A
+3) INPUT B
+4) INPUT C
+5) IF A>B AND A>C THEN
+6)   PRINT "A IS MAXIMUM"
+7) END IF B>A AND B>C THEN
+8)   PRINT "B IS MAXIMUM" 
+9) ELSE 
+10)  PRINT "C IS MAXIMUM"
+11)END
+
+
+
+PROBLEM # 2:
+1) START
+2) INPUT num1
+3) INPUT num2
+4) INPUT num3
+5) SET SUM=-(-num1-num2-num3)
+6) PRINT SUM
+7) END
+
+
+
+PROBLEM # 3:
+1) START
+2) INPUT num1
+3) INPUT num2
+4) INPUT operator
+5) SET answer=0
+6) IF operator =="+" THEN
+7)   SET answer=num1+num2
+8)   PRINT "answer"
+9) END IF operator =="-" THEN
+10)  SET answer=num1-num2
+11)  PRINT "answer"
+12) ELSE
+13)  PRINT "Enter a valid operation"
+14) END
