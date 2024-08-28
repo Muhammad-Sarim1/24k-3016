@@ -1,5 +1,5 @@
-1)**Name**: MUHAMMAD SARIM
-2)**INTRODUCTION**
+1.**Name**: MUHAMMAD SARIM
+2.**INTRODUCTION**
 *I am 18 years old.
 *I am an avid cricket fan and my favourite batsman is Virat Kohli.
 *I have completed my HSSC from Goverment Dehli College.
